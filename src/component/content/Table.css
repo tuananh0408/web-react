@@ -1,0 +1,13 @@
+.table {
+    height: 720px;
+    position: absolute;
+    /* margin-top: 40px; */
+    width: 100%;
+    top: 69px;
+    margin-left: -24px;
+}
+.aa,th,td{
+    width: 100%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}

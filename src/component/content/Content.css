@@ -1,0 +1,52 @@
+.content { 
+    float: right;
+    width: calc(100% - 221px);
+    height: calc(100vh - 64px); 
+    background-color: #e5e5e5;
+    position: relative;
+}
+.content-top {
+    display: flex;
+}
+.title-content {
+  padding: 15px 10px;
+   
+}
+.button-content {
+    left: 1470px;
+}
+
+
+.ll {
+      position: absolute;
+      top: 15px; 
+}
+
+/* card */
+
+.card-content {
+    margin: 10px;
+    height: calc(100% - 90px);
+    position: relative;
+}
+.input-root {
+    padding: 2px 2px;
+    display: flex;
+    align-items: center;
+    width: max-content;
+    position: absolute;
+    right: 70px;
+    border: 1px solid;
+    height: 35px;
+
+}
+.input {
+    margin-left: 10px;
+    flex: 1;
+}
+.iconbutton {
+    padding: 10px;
+}
+.icon-reload {
+    left: 1590px;
+}
